@@ -1,9 +1,9 @@
 {
-    "name": "mnastalski/przelewy24-php",
+    "name": "zloter/przelewy24-php",
     "description": "Przelewy24 PHP library",
     "type": "library",
     "license": "MIT",
-    "homepage": "https://github.com/mnastalski/przelewy24-php",
+    "homepage": "https://github.com/zloter/przelewy24-php",
     "authors": [
         {
             "name": "Mateusz Nastalski",
